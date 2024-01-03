@@ -1,6 +1,16 @@
-### Hi there 👋
+# Hi there 👋
+
+- 🔭 I’m currently working as Ruby on Rails backend developer
+- 🌱 I’m currently learning Golang and .Net
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camilalm&theme=radical)
+
 
 <!--
+# 📫 Connect With Me
+
+
 **camilalm/camilalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
